@@ -47,4 +47,4 @@ This repository contains the source code for a gym website, implemented as a sin
 1. Clone the repository:
 
    ```bash
-   https://github.com/AyushDewangan21/Gemini_Chatbot
+   https://github.com/AyushDewangan21/FITNEXX
