@@ -41,7 +41,10 @@ This repository contains the source code for a gym website, implemented as a sin
 <img width="941" alt="Screenshot 2024-09-13 161558" src="https://github.com/user-attachments/assets/02775cbf-c78f-410b-9f96-5d062e145e64">
 
 
-##
 
-### Project Live URI:  [Live Demo](##LINK)
+## Installation
 
+1. Clone the repository:
+
+   ```bash
+   https://github.com/AyushDewangan21/Gemini_Chatbot
